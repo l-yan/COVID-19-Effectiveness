@@ -1,0 +1,21 @@
+---
+title: "The Effectiveness of Social Distancing in Meitigating the Spread of COVID-19"
+author: "Lei Yan"
+date: "4/20/2020"
+output: html_notebook
+---
+
+Social distancing has been implemented worldwide to mitigate the spatial spread of COVID-19. However, the effectiveness of social distancing in controlling the pandemic is uncertain amid increasing protests against stay-at-home restrictions. It is crucial and urgent to empirically quantify the impact of social distancing on mitigation of the spread of COVID-19.
+
+
+
+```{r}
+plot(cars)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file). 
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
